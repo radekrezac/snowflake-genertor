@@ -4,10 +4,10 @@ Generates various scripts within Snowflake utilizing template table residing in 
 
 The procedure can be used in different ways:
 
-Standalone directly in the Snowflake UI
-Inside the loop in the Snowflake UI
-Inside other Snowflake procedures
-With external or 3rd party tools (dbt, snowSql, …)
+- Standalone directly in the Snowflake UI
+- Inside the loop in the Snowflake UI
+- Inside other Snowflake procedures
+= With external or 3rd party tools (`dbt`, `snowSql`, …)
 Arguments
 ```
 SCRIPT_TYPE    VARCHAR(250),
