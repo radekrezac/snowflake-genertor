@@ -1,6 +1,6 @@
 ## Snowflake Generator
 
-Generates various scripts within Snowflake utilizing template table residing in ADMINISTRATION_SE.UTILS.SCRIPT_TEMPLATE and ADMINISTRATION.UTILS.SCRIPT_TEMPLATE_CUSTOM (allowing utilization of adjusted templates from SCRIPT_TEMPLATE - meant to be utilized in divisional Snowflake environments)
+Generates various scripts within Snowflake utilizing template table residing in ADMINISTRATION_UTILS.SCRIPT_TEMPLATE.
 
 The procedure can be used in different ways:
 
